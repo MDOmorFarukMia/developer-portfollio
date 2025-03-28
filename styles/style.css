@@ -427,3 +427,81 @@ margin-bottom: 24px;
     text-align: center;
     margin-bottom:48px;
 }
+#footer{
+    align-items: center;
+    justify-self: center;
+    border-radius: 16px;
+    gap: 32;
+    padding: 64px 48px 64px 48px;
+    width: 1140px;
+height: 313px;
+    background-image: url("../assets/handshake.jpg");
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+    background-size:cover;
+    margin-bottom: 10px;
+}
+
+#footer .footer1 h1{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 16px;
+}
+#footer .footer1 p{
+    opacity: 0.7;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 43px;
+}
+
+#footer .footer2 input{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    width: 548px;
+height: 57px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px 19px 20px;
+}
+#footer{
+    margin-top: 49px;
+}
+
+#footer .footer2{
+    display: flex;
+    gap: 16px
+    ;
+    align-content: center;
+}
+
+#footer .footer2 button{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+padding: 17px 20px 17px 20px;
+width: 120px;
+height: 57px;
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+}
+
+#footer .footer2{
+    align-items: center;
+   justify-self: center
+     ;
+     margin-top: 24px;
+}
