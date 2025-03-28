@@ -190,3 +190,50 @@ border: 1px solid rgb(13, 19, 33);
 opacity: 0.7;
 
 }
+
+#guide .guide-container{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    text-align: center;
+    width: 1140px;
+height: 775px;
+}
+
+#guide .guide-container h2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+
+margin-bottom: 24px;
+}
+
+#guide .guide-container p{
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+  
+    margin-bottom: 48px;
+}
+
+#guide .guide-container .video{
+    width: 1476px;
+height: 550px;
+justify-content: center;
+
+}
+
+#guide .guide-container .video iframe{
+    width: 1300px;
+height: 550px;
+align-items: center;
+}
