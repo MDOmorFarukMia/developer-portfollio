@@ -24,6 +24,7 @@ letter-spacing: 0%;
 text-align: center;
 padding: 17px 24px;
 border-radius: 10px;
+
 }
 
 #banner > nav {
@@ -534,4 +535,8 @@ text-align: center;
     width: 36px;
 height: 36px;
 gap: 24px;
+}
+
+#footer1 .foot .pic0 a{
+    text-decoration: none;
 }
